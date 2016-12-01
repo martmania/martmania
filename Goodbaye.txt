@@ -1,2 +1,0 @@
-print("Goodbaye world")
-print("Goodbaye")
